@@ -1,0 +1,12 @@
+# Showcase this worker on https://openrelik.org/marketplace
+publish: false
+
+# Worker Metadata.
+display_name: User-friendly name of your worker
+description: Parses input files using forensic tools created by Eric Zimmerman
+
+# Third-Party Tools Used by the Worker.
+tools:
+  - display_name: Eric Zimmerman's tools
+    description: Brief description of the tool
+    url: https://ericzimmerman.github.io
