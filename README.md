@@ -1,4 +1,4 @@
-# Openrelik worker for running Eric Zimmerman's tools on input files
+# OpenRelik worker for running Eric Zimmerman's tools on input files
 
 ## Description
 This worker can be used to parse input files using forensic tools created by Eric Zimmerman. See https://ericzimmerman.github.io for more information.
